@@ -22,8 +22,8 @@ Un outil graphique permettant de télécharger en masse des clips Twitch selon d
 
 1. Clonez le repository :
 ```bash
-git clone 
-cd 
+git clone https://github.com/FOEDI/Bulk-Twitch-Clips-Downloader.git
+cd Bulk-Twitch-Clips-Downloader
 ```
 
 2. Créez un environnement virtuel (recommandé) :
