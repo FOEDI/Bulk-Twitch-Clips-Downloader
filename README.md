@@ -2,6 +2,8 @@
 
 Un outil graphique permettant de télécharger en masse des clips Twitch selon différents critères.
 
+![image](https://github.com/user-attachments/assets/a4a07168-7f90-4421-b0de-71b646a8c93c)
+
 ## Fonctionnalités
 
 - Interface graphique intuitive
